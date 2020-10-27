@@ -34,7 +34,7 @@ spectrogram images of wireless signals
 * Trained Support Vector Machine classifier to 99% accuracy
 * Utilized transfer learning using Google’s AlexNet to train a CNN classifier to 99%
 accuracy
-![Spectrogram Image](/QAM1)
+![Spectrogram Image](/QAM1.PNG)
 
 # [Survey Lemur](https://github.com/ssw322/survey-monkey)
 * Partnered with team members to design and develop a simple test or survey
