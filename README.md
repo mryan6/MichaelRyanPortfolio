@@ -8,7 +8,7 @@
 Sample image of EMMA Navigation
 
 
-![Navigation](https://github.com/mryan6/MichaelRyanPortfolio/blob/main/EMMA2.PNG)
+![Navigation](/EMMA2.PNG)
 
 
 # [Sublime Data Analysis](https://docs.google.com/document/d/1wE6PwQWb-wkR0DnQGO8Cj6FtwUuDU4pArvz0Keo1P20/edit?usp=sharing)
@@ -21,9 +21,9 @@ available scooters at different points in the day/week
 * K-means clustering algorithm was used to determine at which areas scooters
 were utilized most heavily
 * Clusters also gave partial insight to Lime’s maintenance methods
-![Scooter Heatmap](https://github.com/mryan6/MichaelRyanPortfolio/blob/main/lime1.PNG)
-![Scooter Availability 1](https://github.com/mryan6/MichaelRyanPortfolio/blob/main/Lime2.PNG)
-![Scooter Availability 2](https://github.com/mryan6/MichaelRyanPortfolio/blob/main/Lime3.PNG)
+![Scooter Heatmap](/lime1.PNG)
+![Scooter Availability 1](/Lime2.PNG)
+![Scooter Availability 2](/Lime3.PNG)
 
 # [QAM Classifier](https://github.com/mryan6/IntroToAIFinalProject)
 * Utilized MatLab Machine Learning and Deep Learning toolboxes to classify
@@ -47,4 +47,4 @@ user-generated content
 a user’s request
 * Designed the database structure to take advantage of Object Oriented
 Programming to increase efficiency and maintainability
-![Usability Testing](https://github.com/mryan6/MichaelRyanPortfolio/blob/main/survey1.PNG)
+![Usability Testing](/survey1.PNG)
