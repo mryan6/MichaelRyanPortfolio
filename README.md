@@ -33,3 +33,17 @@ spectrogram images of wireless signals
 * Utilized transfer learning using Google’s AlexNet to train a CNN classifier to 99%
 accuracy
 ![Spectrogram Image](https://github.com/mryan6/IntroToAIFinalProject/blob/master/16QAM/16QAM_1.jpg)
+
+# [Survey Lemur](https://github.com/ssw322/survey-monkey)
+* Partnered with team members to design and develop a simple test or survey
+taking application for AndroidOS
+* Led usability testing including paper prototyping and higher fidelity prototypes
+in order to design a funtional UI which would ensure good UX
+* Designed and implemented several unit tests for both frontend and backend
+functions using JUnit4
+* Implemented backend functions for the serialization and deserializtion of
+user-generated content
+* Implemented functions that would display the correct data from the backend at
+a user’s request
+* Designed the database structure to take advantage of Object Oriented
+Programming to increase efficiency and maintainability
