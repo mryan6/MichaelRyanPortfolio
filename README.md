@@ -10,6 +10,9 @@ available scooters at different points in the day/week
 * K-means clustering algorithm was used to determine at which areas scooters
 were utilized most heavily
 * Clusters also gave partial insight to Lime’s maintenance methods
+![Scooter Heatmap](https://github.com/mryan6/MichaelRyanPortfolio/blob/main/lime1.PNG)
+![Scooter Availability 1](https://github.com/mryan6/MichaelRyanPortfolio/blob/main/lime2.PNG)
+![Scooter Availability 2](https://github.com/mryan6/MichaelRyanPortfolio/blob/main/lime3.PNG)
 
 # [QAM Classifier](https://github.com/mryan6/IntroToAIFinalProject)
 * Utilized MatLab Machine Learning and Deep Learning toolboxes to classify
