@@ -1,15 +1,15 @@
 # Michael Ryan Portfolio
 
 # [Sublime Data Analysis](https://docs.google.com/document/d/1wE6PwQWb-wkR0DnQGO8Cj6FtwUuDU4pArvz0Keo1P20/edit?usp=sharing)
-• Performed data analysis of Lime Scooters and their use throughout the city of
+* Performed data analysis of Lime Scooters and their use throughout the city of
 Hoboken
-• Using Knime and Excel, a dataset consisting of hundreds of thousands of datapoints was cleaned and processed to better understand the maintenance and
+* Using Knime and Excel, a dataset consisting of hundreds of thousands of datapoints was cleaned and processed to better understand the maintenance and
 usage of Lime Scooters
-• Heatmap was created in order to tell users which areas are more likely to have
+* Heatmap was created in order to tell users which areas are more likely to have
 available scooters at different points in the day/week
-• K-means clustering algorithm was used to determine at which areas scooters
+* K-means clustering algorithm was used to determine at which areas scooters
 were utilized most heavily
-• Clusters also gave partial insight to Lime’s maintenance methods
+* Clusters also gave partial insight to Lime’s maintenance methods
 
 # [QAM Classifier](https://github.com/mryan6/IntroToAIFinalProject)
 * Utilized MatLab Machine Learning and Deep Learning toolboxes to classify
