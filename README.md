@@ -1,14 +1,7 @@
 # Michael Ryan Portfolio
 
 # [Elderly Motion Monitoring Assistant (EMMA)](https://drive.google.com/file/d/1870bKgQQAoMTRz8SfDZuH0U9emzXi7nt/view?usp=sharing)
-* Created an alert system to assist caretakers in the monitoring of elderly
-individuals at home
-* Led the team in both system design and implementation
-* Designed Turtlebot3 subsystem which enhances alerts with extra information
-* Implemented mapping and autonomous navigation on Turtlebot3 using ROS
-* Created a sensor suite using a Raspberry Pi Zero, including PyCam Module v2
-* Designed and implemented the Alexa subsystem which, when triggered, mimics
-a paramedic to determine status of individual
+![EMMA Description](https://github.com/mryan6/MichaelRyanPortfolio/blob/main/EMMA.PNG)
 
 
 # [Sublime Data Analysis](https://docs.google.com/document/d/1wE6PwQWb-wkR0DnQGO8Cj6FtwUuDU4pArvz0Keo1P20/edit?usp=sharing)
