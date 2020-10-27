@@ -3,6 +3,9 @@
 # [Elderly Motion Monitoring Assistant (EMMA)](https://drive.google.com/file/d/1870bKgQQAoMTRz8SfDZuH0U9emzXi7nt/view?usp=sharing)
 ![EMMA Description](https://github.com/mryan6/MichaelRyanPortfolio/blob/main/EMMA.PNG)
 
+Sample image of EMMA Navigation
+![Navigation](https://github.com/mryan6/MichaelRyanPortfolio/blob/main/EMMA2.PNG)
+
 
 # [Sublime Data Analysis](https://docs.google.com/document/d/1wE6PwQWb-wkR0DnQGO8Cj6FtwUuDU4pArvz0Keo1P20/edit?usp=sharing)
 * Performed data analysis of Lime Scooters and their use throughout the city of
