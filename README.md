@@ -3,7 +3,11 @@
 # [Elderly Motion Monitoring Assistant (EMMA)](https://drive.google.com/file/d/1870bKgQQAoMTRz8SfDZuH0U9emzXi7nt/view?usp=sharing)
 ![EMMA Description](https://github.com/mryan6/MichaelRyanPortfolio/blob/main/EMMA.PNG)
 
+
+
 Sample image of EMMA Navigation
+
+
 ![Navigation](https://github.com/mryan6/MichaelRyanPortfolio/blob/main/EMMA2.PNG)
 
 
